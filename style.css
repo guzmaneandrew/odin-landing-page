@@ -127,3 +127,19 @@ blockquote figcaption {
     text-align: end;
     font-weight: 900;
 }
+
+.signup {
+    color: #e5e7eb;
+    background-color: #3882f6;
+    border-radius: 10px;
+    margin: 72px 100px;
+    padding: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.signup button {
+    border: 3px solid #e5e7eb;
+    padding: 8px 32px;
+}
